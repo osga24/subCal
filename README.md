@@ -17,5 +17,5 @@
 > 第一次寫 flutter 所以有點醜 ><
 
 - [介紹簡報](public/subCal.pdf)
-- [Demo 影片](public/demo.mp4)
+- [Demo 影片](https://drive.google.com/file/d/1V86nq_mCkqEuuuUeIPJRNmZmgplfFJCh/view?usp=sharing)
 
