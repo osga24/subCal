@@ -1,16 +1,21 @@
-# subcal
+<div align='center'>
 
-A new Flutter project.
+# subCal
 
-## Getting Started
+#### 不會再忘記訂閱了什麼奇怪的服務
 
-This project is a starting point for a Flutter application.
+<img src='public/subCal.png' width =300px>
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 我的第一個 APP 嘻嘻，謝謝 Calude code 的協助
+>
+> 這是為雲科大人通識課「APP 程式開發」做的期中報告，但希望之後可以更完善
+>
+> 第一次寫 flutter 所以有點醜 ><
+
+- [介紹簡報](public/subCal.pdf)
+- [Demo 影片](public/demo.mp4)
+
