@@ -10,7 +10,12 @@
       "Bash(flutter run -d macos)",
       "WebFetch(domain:rosepinetheme.com)",
       "WebSearch",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(mkdir -p /Users/osga/Dev/project/subCal/lib/{models,services,providers,screens,widgets})",
+      "Bash(flutter analyze)",
+      "Bash(flutter test)",
+      "Bash(tree /Users/osga/Dev/project/subCal/lib -L 2)",
+      "Bash(flutter analyze --no-fatal-infos)"
     ],
     "deny": [],
     "ask": []
