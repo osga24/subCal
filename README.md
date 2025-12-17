@@ -16,7 +16,8 @@
 >
 > 第一次寫 flutter 所以有點醜 ><
 
-- [介紹簡報](public/subCal.pdf)
+- [期中介紹簡報](public/subCal_midterm.pdf)
+- [期末介紹簡報](public/subCal_final.pdf)
 - [Demo 影片](https://drive.google.com/file/d/1V86nq_mCkqEuuuUeIPJRNmZmgplfFJCh/view?usp=sharing)
 
 ## 專案結構
@@ -58,4 +59,3 @@ lib/
 - **widgets/**: 可重用的 UI 元件
 
 每個資料夾都有對應的匯出檔案（如 `models.dart`、`services.dart`），方便統一導入。
-
